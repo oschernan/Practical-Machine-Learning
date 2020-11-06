@@ -1,5 +1,5 @@
 # Practical-Machine-Learning
-## Northwestern University (MSDS-422) Weekly Projects
+## MSDS-422 (Northwestern University) Weekly Projects
 * [Exploratory Data Analysis](Assignment1_OscarHernandez.ipynb)  
 Descriptive statistics, Data Visualization, Data Preparation   
 * [Classification Models](Assignment2_OscarHernandez.ipynb)  
