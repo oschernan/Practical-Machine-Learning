@@ -2,11 +2,11 @@
 ## Northwestern University (MSDS-422) Weekly Projects
 * [Exploratory Data Analysis](Assignment1_OscarHernandez.ipynb)  
 Descriptive statistics, data visualization, data preparation   
-* [Classification Models](Assignment2_Oscar Hernandez.ipynb)  
+* [Classification Models](Assignment2_OscarHernandez.ipynb)  
 Logistic Regression, Naïve Bayes, Cross-Validation
-* [Regression Models](Assignment3_Oscar Hernandez.ipynb)  
+* [Regression Models](Assignment3_OscarHernandez.ipynb)  
 Linear Regression (SVD, SGD), Ridge Regression, Lasso Regression
-* [Random Forests](Assignment4_Oscar Hernandez.ipynb)  
+* [Random Forests](Assignment4_OscarHernandez.ipynb)  
 Random Forests, Feature Importance
 * [Principal Component Analysis (PCA)](Assignment5_OscarHernandez.ipynb)  
 Dimensionality Reduction
