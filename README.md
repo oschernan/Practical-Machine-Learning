@@ -1,7 +1,7 @@
 # Practical-Machine-Learning
 ## Northwestern University (MSDS-422) Weekly Projects
 * [Exploratory Data Analysis](Assignment1_OscarHernandez.ipynb)  
-Descriptive statistics, data visualization, data preparation   
+Descriptive statistics, Data Visualization, Data Preparation   
 * [Classification Models](Assignment2_OscarHernandez.ipynb)  
 Logistic Regression, Naïve Bayes, Cross-Validation
 * [Regression Models](Assignment3_OscarHernandez.ipynb)  
