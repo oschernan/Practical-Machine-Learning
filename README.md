@@ -16,3 +16,5 @@ TensorFlow, Basic Multi-Layer Perceptron Network, Factorial Design
 Convolutional Neural Networks (CNN)
 * [Language Modeling](Assignment8_OscarHernandez.ipynb)  
 Recurrent Neural Networks (RNN)
+
+Note: Each project is a Jupyter notebook that provides an analysis of the results, overview of methods used and final takeaways.  
